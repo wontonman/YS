@@ -1,0 +1,7 @@
+线路地址
+clan://localhost/tvbox/JS/js.json
+clan://localhost/tvbox/JS/js2.json
+http://自行找线路
+直播地址
+clan://localhost/tvbox/tv.txt
+http://自行找直播线路
