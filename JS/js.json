@@ -22,14 +22,14 @@
       "ext": "./lib/玩偶表哥.json"
     },
     {
-      "key": "csp_XYQHikerAL_影视车",
-      "name": "📀 影视车",
+      "key": "csp_XYQHikerAL_玩偶妹妹",
+      "name": "📀 玩偶妹妹",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/影视车.json"
+      "ext": "./lib/玩偶妹妹.json"
     },
     {
       "key": "csp_XYQHikerAL_玩我哥哥",
@@ -697,5 +697,5 @@
     "cms.qdwght.com",
     "api.htpan.net"
   ],
-  "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wontonman/Padavan/main/1080.jpg"
+  "wallpaper": "./js/1080.jpg"
 }
