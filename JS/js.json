@@ -133,6 +133,7 @@
       "api": "py_m1905",
       "ext": "./py/m1905.py"
     },
+    {
       "key": "py_CCTV",
       "name": "📽️ CCTV┃py",
       "type": 3,
