@@ -133,6 +133,12 @@
       "api": "py_m1905",
       "ext": "./py/m1905.py"
     },
+      "key": "py_CCTV",
+      "name": "📽️ CCTV┃py",
+      "type": 3,
+      "api": "py_CCTV",
+      "ext": "./py/CCTV.py"
+    },
 	{
 	  "key":"drpy_js_影探[V2]",
 	  "name":"🚲 影探",
