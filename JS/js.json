@@ -12,16 +12,6 @@
       "ext": "./lib/玩偶哥哥.json"
     },
     {
-      "key": "csp_XYQHikerAL_玩偶表哥",
-      "name": "📀 玩偶表哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩偶表哥.json"
-    },
-    {
       "key": "csp_JianPian",
       "name": "🔨荐片",
       "type": 3,
