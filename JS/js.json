@@ -1,21 +1,6 @@
 ﻿{
   "spider": "./XYQ.jar",
   "sites": [
-	{
-      "key": "csp_XiaoYa",
-      "name": "👨‍👩‍👧‍👦 丫仙女",
-	  "ext" : "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
-      "jar": "./lib/spring.jar",
-      "api": "csp_XiaoYa",
-      "type": 3,
-      "style": {
-        "type": "rect"
-      },
-	  "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "searchable": 1
-    },
     {
       "key": "csp_XYQHikerAL",
       "name": "💂 玩偶哥哥(优)",
