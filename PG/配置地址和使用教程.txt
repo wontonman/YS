@@ -1,0 +1,12 @@
+配置地址,原版的PG说明用影视才能达到最佳的观看效果
+影视
+file://tvbox/PG/jsm.json
+file://tvbox/JS/js.json
+影视仓
+clan://localhost/tvbox/PG/jsm.json
+clan://localhost/tvbox/JS/js.json
+首次使用需要在 PGの配置 里面输入各种cookie可以使用手机app扫码,风险自负!~
+后面更新配置可能需要卸载影视app,
+软件启动后 提示 是否要还原备份数据 请!! 取消 !! 
+然后重新设置本地包地址或者远程地址.
+以上电脑模拟器测试通过!~
